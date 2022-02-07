@@ -1,1 +1,2 @@
 # Collatz-Conjecture
+I've been fascinated by this problem for a long time. The conjecture states that for '3n+1' if n is even, divide by 2, but if n is odd, multiple by 3 and add 1. It is thought, but not yet proven, that for all positive n where n is a whole number, the sequence will always go to zero. In honor of this conjecture, I've written a very short script that ultimately graphs this sequence for a given n of your choice. 
