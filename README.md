@@ -1,3 +1,3 @@
 # Collatz-Conjecture
 
-A collatz conjecture visualizer 
+A visualization of the collatz conjecture (3n+1 problem)
